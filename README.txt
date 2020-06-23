@@ -4,3 +4,7 @@ Game-Clones
 3-aa
 4-Space Shooter
 5-Mini 2D Platform Game
+
+created by Umut on 2019
+umuthopekurt@gmail.com
+twitter/missedyourheart
