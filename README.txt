@@ -7,5 +7,4 @@ Game-Clones
 
 --------------------------------
 created by Umut on 2019
-umuthopekurt@gmail.com
 twitter/missedyourheart
